@@ -51,7 +51,7 @@
     <img src="https://leetcard.jacoblin.cool/komal_singh72?theme=dark&font=Baloo+Bhai&ext=contest" />
   </td>
   <td align="center">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Komal_Singh&theme=gruvbox" />
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=komalsingh2004&theme=gruvbox" />
   </td>
 </tr>
 </table>
