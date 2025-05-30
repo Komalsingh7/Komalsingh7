@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/komal-singh-5b9851280/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
   <a href="https://github.com/Komalsingh7"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&style=for-the-badge" /></a>
   <a href="https://leetcode.com/u/komal_singh72/"><img src="https://img.shields.io/badge/Leetcode-orange?logo=Leetcode&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://codeforces.com/profile/Komal_Singh"><img src="https://img.shields.io/badge/Codeforces-blueviolet?logo=Codeforces&style=for-the-badge" /></a>
+  <a href="https://codeforces.com/profile/komalsingh2004"><img src="https://img.shields.io/badge/Codeforces-blueviolet?logo=Codeforces&style=for-the-badge" /></a>
 </p>
 
 ---
